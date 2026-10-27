@@ -25,7 +25,6 @@ An agent skill tested in Codex, with method notes, research and production templ
 
 - [Fleksup — SaaS Website UX/UI Design in Figma](https://www.behance.net/gallery/246864811/Fleksup-SaaS-Website-UXUI-Design-in-Figma)
 - [AuraTouch — Wellness Brand Identity & Packaging](https://www.behance.net/gallery/245019003/AuraTouch-Wellness-Brand-Identity-Packaging)
-- [EOVision — Sports Consultancy Website Design](https://www.behance.net/gallery/257560021/EOVision-Sports-Consultancy-Website-Design)
 
 ## Experience
 
