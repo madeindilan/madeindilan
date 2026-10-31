@@ -4,9 +4,18 @@
 
 I’m Dilan, a multidisciplinary designer working across brand identity, packaging, campaigns and UX/UI. I connect visual storytelling, audience needs and brand strategy to create experiences across print and digital.
 
-My background spans graphic design, photography, art education and digital marketing. Here I share practical creative tools, reusable templates and experiments with AI-assisted workflows.
+[Website](https://dilansnbl.myportfolio.com/) · [Behance](https://www.behance.net/dilansnbl) · [Upwork](https://www.upwork.com/freelancers/~013362ba2715ba5b30) · [LinkedIn](https://www.linkedin.com/in/dilansunbul/) · [Instagram](https://www.instagram.com/madeindilan/) · [Pinterest](https://www.pinterest.com/dilansnbll/)
 
-[Website](https://dilansnbl.myportfolio.com/) · [Behance](https://www.behance.net/dilansnbl) · [Upwork](https://www.upwork.com/freelancers/~013362ba2715ba5b30) · [LinkedIn](https://www.linkedin.com/in/dilansnbl/) · [Instagram](https://www.instagram.com/madeindilan/) · [Pinterest](https://www.pinterest.com/dilansnbll/)
+## Featured projects
+
+### [Made in Dilan Content Planner](https://github.com/madeindilan/made-in-dilan-content-planner)
+
+An agent skill tested in Codex, with method notes, research and production templates, and an example project. It helps turn a creative idea into a platform-specific story, filming plan, production table and clear next step.
+
+### Design case studies
+
+- [Fleksup — SaaS Website UX/UI Design in Figma](https://www.behance.net/gallery/246864811/Fleksup-SaaS-Website-UXUI-Design-in-Figma)
+- [AuraTouch — Wellness Brand Identity & Packaging](https://www.behance.net/gallery/245019003/AuraTouch-Wellness-Brand-Identity-Packaging)
 
 ## What I work on
 
@@ -15,18 +24,20 @@ My background spans graphic design, photography, art education and digital marke
 - **UX/UI & websites:** user flows, interfaces, landing pages and WordPress websites.
 - **Content & creative technology:** social content, motion, video and AI-assisted production workflows.
 
-## On GitHub
+My background spans graphic design, photography, art education and digital marketing. Here I share practical creative tools, reusable templates and experiments with AI-assisted workflows.
 
-### [Made in Dilan Content Planner](https://github.com/madeindilan/made-in-dilan-content-planner)
+## Tools
 
-An agent skill tested in Codex, with method notes, research and production templates, and an example project. It helps turn a creative idea into a platform-specific story, filming plan, production table and clear next step.
+Figma · Adobe Photoshop · Illustrator · InDesign · After Effects · Premiere Pro · WordPress · Codex
 
-## Selected design projects
+## Let’s work together
 
-- [Fleksup — SaaS Website UX/UI Design in Figma](https://www.behance.net/gallery/246864811/Fleksup-SaaS-Website-UXUI-Design-in-Figma)
-- [AuraTouch — Wellness Brand Identity & Packaging](https://www.behance.net/gallery/245019003/AuraTouch-Wellness-Brand-Identity-Packaging)
+Open to freelance collaborations in art direction, branding and digital design. View my [portfolio](https://dilansnbl.myportfolio.com/), explore my [Upwork profile](https://www.upwork.com/freelancers/~013362ba2715ba5b30) or connect on [LinkedIn](https://www.linkedin.com/in/dilansunbul/).
 
-## Experience
+## Background
+
+<details>
+<summary><strong>Experience</strong></summary>
 
 **Art Director / Digital Marketing Manager · Ekşioğlu Law and Consultancy**  
 April 2026–present
@@ -43,8 +54,7 @@ June 2024–August 2025
 
 Brand identities, campaigns and digital communications for e-commerce and fashion brands. Integrated AI and motion into creative production and managed projects with multidisciplinary teams.
 
-<details>
-<summary>Earlier experience</summary>
+### Earlier experience
 
 | Period | Role | Organization |
 | --- | --- | --- |
@@ -57,9 +67,11 @@ Brand identities, campaigns and digital communications for e-commerce and fashio
 | June 2016–January 2017 | Photographer / Photo Editor | Zümrüt Fotoğraf Stüdyoları |
 | October 2015–June 2016 | Photography Intern | Zümrüt Fotoğraf Stüdyoları |
 
+
 </details>
 
-## Education
+<details>
+<summary><strong>Education</strong></summary>
 
 | Program | Institution | Period |
 | --- | --- | --- |
@@ -68,10 +80,4 @@ Brand identities, campaigns and digital communications for e-commerce and fashio
 | Photography and Camera Operation · Associate Degree, Open Education | Anadolu University | 2016–2018 |
 | Graphic Design and Photography · High School | Tuzla İMKB | 2012–2016 |
 
-## Tools
-
-Figma · Adobe Photoshop · Illustrator · InDesign · After Effects · Premiere Pro · WordPress · Codex
-
-## Let’s work together
-
-Open to freelance collaborations in art direction, branding and digital design. View my [portfolio](https://dilansnbl.myportfolio.com/), explore my [Upwork profile](https://www.upwork.com/freelancers/~013362ba2715ba5b30) or connect on [LinkedIn](https://www.linkedin.com/in/dilansnbl/).
+</details>
